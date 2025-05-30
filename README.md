@@ -1,0 +1,1 @@
+# GrupoG7_OpenMP
